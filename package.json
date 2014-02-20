@@ -1,0 +1,11 @@
+{
+  "name": "esundahl-museo-500",
+  "description": "Museo 500 Font Component",
+  "version": "0.0.1",
+  "keywords": [],
+  "styles": [
+    "museo-500.css"
+  ],
+  "dependencies": {},
+  "license": "MIT"
+}
